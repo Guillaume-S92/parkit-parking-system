@@ -8,7 +8,7 @@ Repository de base fourni par OpenClassrooms :
 https://github.com/OpenClassrooms-Student-Center/parkingsystem
 
 Repository final du projet :  
-https://github.com/Guillaume-S92/SIMON_Guillaume_tester_java
+https://github.com/Guillaume-S92/parkit-parking-system
 
 ---
 
